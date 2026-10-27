@@ -1,9 +1,9 @@
 # Pertemuan 13 - Debugging dan Testing
 
-**Nama:** [SULASTRI]  
-**NIM:** [ 2225250152]  
-**Kelas:** [B] 
-**Prodi:** [Pendidikan Matematika]  
+**Nama:** SULASTRI  
+**NIM:**  2225250152      
+**Kelas:** B    
+**Prodi:** Pendidikan Matematika  
 
 ## Kasus
 Pengujian dan perbaikan program pemrosesan data nilai mahasiswa yang memiliki masalah logical bug pada kalkulasi rata-rata, penentuan kelulusan nilai batas, dan ekstraksi nilai tertinggi.
